@@ -6,3 +6,11 @@ C:\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
 C:\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
 C:\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
 C:\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\DJ\Documents\HelloServiceNew\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

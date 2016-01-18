@@ -4,3 +4,9 @@ C:\HelloService\HelloService\bin\Debug\HelloService.pdb
 C:\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
 C:\HelloService\HelloService\obj\Debug\HelloService.dll
 C:\HelloService\HelloService\obj\Debug\HelloService.pdb
+C:\Users\DJ\Documents\HelloServiceNew\HelloService\bin\Debug\HelloService.dll.config
+C:\Users\DJ\Documents\HelloServiceNew\HelloService\bin\Debug\HelloService.dll
+C:\Users\DJ\Documents\HelloServiceNew\HelloService\bin\Debug\HelloService.pdb
+C:\Users\DJ\Documents\HelloServiceNew\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+C:\Users\DJ\Documents\HelloServiceNew\HelloService\obj\Debug\HelloService.dll
+C:\Users\DJ\Documents\HelloServiceNew\HelloService\obj\Debug\HelloService.pdb
